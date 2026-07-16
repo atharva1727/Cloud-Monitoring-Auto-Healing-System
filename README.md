@@ -75,7 +75,7 @@ Each check cycle: **collect → evaluate → decide → act.** If a service or r
 ## 🖥️ Dashboard Preview
 
 <div align="center">
-  <img src="assets/dashboard-mockup.png" alt="Dashboard Preview" width="100%">
+  <img src="https://github.com/atharva1727/Cloud-Monitoring-Auto-Healing-System/blob/main/dashboard-mockup.png" alt="Dashboard Preview" width="100%">
 </div>
 
 A conceptual preview of what the monitoring dashboard surfaces: live resource cards, a rolling usage trend, and a running feed of recent alerts and auto-healing actions.
