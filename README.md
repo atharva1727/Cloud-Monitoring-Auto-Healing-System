@@ -49,7 +49,7 @@ It exposes a clean REST API, persists historical metrics to MySQL for trend anal
 ## 🏗️ System Architecture
 
 <div align="center">
-  <img src="assets/architecture-diagram.png" alt="System Architecture Diagram" width="100%">
+  <img src="https://github.com/atharva1727/Cloud-Monitoring-Auto-Healing-System/blob/main/architecture-diagram.png" alt="System Architecture Diagram" width="100%">
 </div>
 
 **How it works, end to end:**
