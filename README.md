@@ -3,7 +3,7 @@ A real-time cloud monitoring and auto-healing system built with Python, Flask, D
 
 
 <div align="center">
-  <img src="assets/banner-hero.png" alt="Cloud Monitoring & Auto-Healing System" width="100%">
+  <img src="assets/https://github.com/atharva1727/Cloud-Monitoring-Auto-Healing-System/blob/main/banner-hero.png" alt="Cloud Monitoring & Auto-Healing System" width="100%">
 </div>
 
 <div align="center">
