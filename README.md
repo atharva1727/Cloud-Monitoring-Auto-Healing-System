@@ -65,7 +65,7 @@ It exposes a clean REST API, persists historical metrics to MySQL for trend anal
 ## 🔁 Auto-Healing Workflow
 
 <div align="center">
-  <img src="assets/auto-healing-workflow.png" alt="Auto-Healing Workflow Diagram" width="100%">
+  <img src="https://github.com/atharva1727/Cloud-Monitoring-Auto-Healing-System/blob/main/auto-healing-workflow.png" alt="Auto-Healing Workflow Diagram" width="100%">
 </div>
 
 Each check cycle: **collect → evaluate → decide → act.** If a service or resource crosses its threshold, the engine restarts it automatically and logs an alert. If everything is within limits, no action is taken — keeping the system quiet unless something actually needs attention.
